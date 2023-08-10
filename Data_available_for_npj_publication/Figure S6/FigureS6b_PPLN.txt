@@ -1,0 +1,7 @@
+AC_Applied_Bias	Amplitude	error_amp
+V	pm	pm
+PPLN	PPLN	PPLN
+0.5	9.57	0.52
+0.75	15.2	0.78
+1	18.95	0.94
+1.25	23.66	1.49

@@ -1,0 +1,8 @@
+AC_Applied_Bias	Amplitude	error_Amp	Amplitude	error_Amp	AC_Applied_Bias	Amplitude	error_Amp	AC_Applied_Bias	Amplitude	error_Amp
+V	pm	pm	pm	pm	V	pm	pm	V	pm	pm
+Voltage	x=7.6%,d=38%	x=7.6%,d=38%	x=1.4%, d =9%	x=1.4%, d =9%	Voltage	x=15%, d =21%	x=15%, d =21%	Voltage	PPLN	PPLN
+2	4.32	0.2826	8.64	0.2576	1.5	9.74	1.405	0.5	9.57	0.52
+2.5	6.036	0.304	10.46	0.2954	1.75	16.63	1.941	0.75	15.2	0.78
+3	7.48	0.3456	12.27	0.3243	2	21.25	2.958	1	18.95	0.94
+3.5	8.73	0.4531	14.17	0.4536	2.25	25.46	6.098	1.25	23.66	1.49
+4	10.44	0.5501	17.07	0.4428	2.5	42.6	5.94			
